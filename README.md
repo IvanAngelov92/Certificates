@@ -5,3 +5,5 @@
 ![Software Technologies - September 2023 - Certificate](https://github.com/IvanAngelov92/Certificates/assets/32968611/717c238e-7937-4474-89d6-e8b3f2e3b113)
 
 ![QA Fundamentals and Manual Testing - October 2023 - Certificate](https://github.com/IvanAngelov92/Certificates/assets/32968611/0f7f3ef8-cec9-4166-8c9b-d592ab062361)
+
+![Programming Fundamentals and Unit Testing - January 2024 - Certificate](https://github.com/IvanAngelov92/Certificates/assets/32968611/aa6b22a4-c849-4ebe-8edb-5904537dc74c)
