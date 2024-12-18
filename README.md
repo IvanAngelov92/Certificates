@@ -11,3 +11,5 @@
 ![Programming Advanced for QA - March 2024 - Certificate](https://github.com/user-attachments/assets/974331ff-e8d3-4614-b262-dea5e6c82cb2)
 
 ![Back-End Technologies Basics - September 2024 - Certificate](https://github.com/user-attachments/assets/4bd9f8f6-f15b-4944-8411-0aa34a55ac9e)
+
+![Back-End Test Automation - November 2024 - Certificate](https://github.com/user-attachments/assets/dad27697-a9a5-415a-8931-3fea2a53cfee)
