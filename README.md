@@ -13,3 +13,7 @@
 ![Back-End Technologies Basics - September 2024 - Certificate](https://github.com/user-attachments/assets/4bd9f8f6-f15b-4944-8411-0aa34a55ac9e)
 
 ![Back-End Test Automation - November 2024 - Certificate](https://github.com/user-attachments/assets/dad27697-a9a5-415a-8931-3fea2a53cfee)
+
+![Image](https://github.com/user-attachments/assets/5cbfe2dd-9665-4569-a93b-b0e0487e9121)
+
+![Image](https://github.com/user-attachments/assets/176a77e3-d0c9-49ef-807f-cfdbd806a6fb)
