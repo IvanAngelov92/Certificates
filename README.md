@@ -17,3 +17,7 @@
 ![Image](https://github.com/user-attachments/assets/5cbfe2dd-9665-4569-a93b-b0e0487e9121)
 
 ![Image](https://github.com/user-attachments/assets/176a77e3-d0c9-49ef-807f-cfdbd806a6fb)
+
+<img width="780" height="3414" alt="Diploma for QA Automation Engineer" src="https://github.com/user-attachments/assets/ebd2465b-18bf-4a49-99d3-7ca9bf96f80b" />
+
+<img width="780" height="1122" alt="Introduction to Programming with AI" src="https://github.com/user-attachments/assets/30c6dc4f-805e-44c6-b58a-98ad2b7f033a" />
